@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "801760547835",
+    "project_id": "petsi-41226",
+    "storage_bucket": "petsi-41226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801760547835:android:d94d9aa4304ed542ff315e",
+        "android_client_info": {
+          "package_name": "com.example.poyectoprogra2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801760547835-j9dj4plfqdvsdjvff2r3os32741ucng8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.poyectoprogra2",
+            "certificate_hash": "6f571b9feaeecf3b27510fc3dbef45af0df08155"
+          }
+        },
+        {
+          "client_id": "801760547835-q67vi4lilb0h0s9t6mtc3qma2rue52bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG-Zjrw_S3wC3CG47Lr9WAobsi254FdHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801760547835-q67vi4lilb0h0s9t6mtc3qma2rue52bk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
